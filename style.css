@@ -10,14 +10,14 @@ header {
     color: #fff;
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
     gap: 3%;
     padding: 30px;
 }
 
-.logo { 
-margin-left: -2%; 
-padding: auto;
+.logo {
+    margin-left: -2%;
+    padding: auto;
 
 }
 
@@ -26,7 +26,8 @@ img {
     height: auto;
     margin-right: 10px;
 }
-section{
+
+section {
 
     display: inline-block;
     margin: 2%;
@@ -43,7 +44,8 @@ section{
     margin-bottom: 20px;
 }
 
-label, select {
+label,
+select {
     font-size: 1.2rem;
 }
 
